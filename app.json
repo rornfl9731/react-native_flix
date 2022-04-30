@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jinflix",
+    "slug": "jinflix",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jinflix"
+}
